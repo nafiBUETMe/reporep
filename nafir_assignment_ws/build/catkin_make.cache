@@ -1,0 +1,2 @@
+roshin_jibon_nafi
+-DCATKIN_DEVEL_PREFIX=/home/vboxuser/nafir_assignment_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vboxuser/nafir_assignment_ws/install -G Unix Makefiles
